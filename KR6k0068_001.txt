@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:43:42.944586
+#+DATE: 2015-08-30 20:43:44.061375
 #+TITLE: 佛說苾芻五法經
 #+PROPERTY: CBETA_ID T24n1479
 #+PROPERTY: ID KR6k0068
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 24, No. 1479
 #+PROPERTY: VOL 24
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6k0068_T_000-0955a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6k0068_T_001-0955a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1479¶
-
- 佛說苾芻五法經¶
+No. 1479¶
+佛說苾芻五法經¶
 ¶
 西天譯經三藏朝散大夫試鴻臚¶
 少卿傳教大師臣法天奉　詔譯¶
